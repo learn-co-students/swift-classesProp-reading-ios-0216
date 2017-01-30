@@ -6,7 +6,7 @@
 
 ## Overview
 
-In this lesson we'll introdue properties, the attributes that separate an instance of a class from other instances. 
+In this lesson we'll introduce properties, the attributes that separate an instance of a class from other instances. 
 
 ## Learning Objectives
 
@@ -14,6 +14,12 @@ In this lesson we'll introdue properties, the attributes that separate an instan
 * Create computed properties that are based on the values of other properties
 * Explain the difference between constant and variable properties
 * Explain the difference between constant and variable objects
+
+## Video
+
+[![](http://img.youtube.com/vi/NtRsKsRW3LY/0.jpg)](http://www.youtube.com/watch?v=NtRsKsRW3LY "Classes")
+
+This video covers computed properties on a Class.
 
 ## Properties
 
